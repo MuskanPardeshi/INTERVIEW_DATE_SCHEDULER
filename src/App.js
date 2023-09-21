@@ -5,11 +5,11 @@ import InterviewProject from './InterviewProject'
 const App = () => {
   return (
     <div>
-    <InterviewProject/>
+    <InterviewProject/> 
      </div>
   );
 };
 
 export default App;
 
-
+// appjs
